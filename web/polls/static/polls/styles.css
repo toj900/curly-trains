@@ -1,0 +1,59 @@
+.white {
+    color: aliceblue;
+}
+body {
+    background-color: #2b2b2b;
+}
+label{
+  color: aliceblue;
+}
+li{
+  color: green;
+}
+li a{
+  color: green;
+}
+h1{
+  color: aliceblue;
+
+    width: 100%;
+}
+ul p {
+    color: #bababa;
+
+
+}
+
+div{
+  margin: auto;
+
+    text-align: center;
+}
+div ul{
+    margin: auto;
+    width: fit-content;
+    text-align: left;
+
+}
+
+input[type=text] {
+    outline: none;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 18px;
+    width: 25%;
+
+    border-radius: 20px;
+}
+
+input[type=submit] {
+  background-color: #3c3f41;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+    border-radius: 8px;
+}

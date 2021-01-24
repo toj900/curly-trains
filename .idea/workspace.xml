@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b7e691b-556f-480b-bd33-013ecb753709" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nClqlak91q7zOeaXnFclw8uTpM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/imdb.npz" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\toj90\PycharmProjects\untitled1\web\polls\static\polls" />
+      <recent name="C:\Users\toj90\PycharmProjects\untitled1\web\polls" />
+      <recent name="C:\Users\toj90\PycharmProjects\untitled1\web\polls\templates\polls\static" />
+      <recent name="C:\Users\toj90\PycharmProjects\untitled1\web\polls\templates\polls" />
+      <recent name="C:\Users\toj90\PycharmProjects\untitled1\web\polls\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ml_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ml_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b7e691b-556f-480b-bd33-013ecb753709" name="Default Changelist" comment="" />
+      <created>1610902146650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610902146650</updated>
+      <workItem from="1610902147777" duration="1998000" />
+      <workItem from="1611094509448" duration="2000000" />
+      <workItem from="1611265125027" duration="3299000" />
+      <workItem from="1611355443507" duration="7704000" />
+      <workItem from="1611440463568" duration="10769000" />
+      <workItem from="1611504825915" duration="9643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="359" key="#Notifications" timestamp="1611514856393">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="359" key="#Notifications/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611514856393" />
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611268813022">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611268813022" />
+    <state x="1050" y="504" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611358342922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1050" y="504" key="#com.intellij.fileTypes.FileTypeChooser/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611358342922" />
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1611514594697">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="456" key="FileChooserDialogImpl/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611514594697" />
+    <state x="1114" y="617" width="356" height="166" key="Github.CreateGistDialog" timestamp="1611514832132">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="617" width="356" height="166" key="Github.CreateGistDialog/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611514832132" />
+    <state width="2517" height="578" key="GridCell.Tab.0.bottom" timestamp="1611446333621">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="578" key="GridCell.Tab.0.bottom/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611446333621" />
+    <state width="2517" height="578" key="GridCell.Tab.0.center" timestamp="1611446333621">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="578" key="GridCell.Tab.0.center/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611446333621" />
+    <state width="2517" height="578" key="GridCell.Tab.0.left" timestamp="1611446333621">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="578" key="GridCell.Tab.0.left/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611446333621" />
+    <state width="2517" height="578" key="GridCell.Tab.0.right" timestamp="1611446333621">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="578" key="GridCell.Tab.0.right/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611446333621" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1610927024290">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1610927024290" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1610927024290">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1610927024290" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1610927024290">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1610927024290" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1610927024290">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1610927024290" />
+    <state x="781" y="343" key="SettingsEditor" timestamp="1611514629391">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="343" key="SettingsEditor/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611514629391" />
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1611504826919">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611504826919" />
+    <state x="943" y="370" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611269043375">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="370" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611269043375" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1611514605005">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611514605005" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$ml_test.coverage" NAME="ml_test Coverage Results" MODIFIED="1611446160951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'polls/styles.css' %}">
+<head>
+    <style>
+        .right {
+            float: right;
+            width: 300px;
+            border: 3px solid #73AD21;
+            padding: 10px;
+        }
+    </style>
+
+
+    <meta charset="UTF-8">
+    <title>Script Output</title>
+
+</head>
+
+<body>
+
+<form action="{% url 'polls:external' %}" method="post">
+    {% csrf_token %}
+    <div id="Search">
+        <br><br><br><br><br><br>
+        <h1>
+
+            <input type="text" name="param"  placeholder="Search.." required>
+        </h1>
+        <input type="submit" value="Execute Script"><br><br>
+        <ul>
+            <p> THid is america {{data1}}</p>
+            <p>{{data1}}</p>
+        </ul>
+    </div>
+</form>
+
+</body>
+</html>
