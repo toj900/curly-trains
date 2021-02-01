@@ -29,6 +29,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1nClqlak91q7zOeaXnFclw8uTpM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -96,7 +100,8 @@
       <workItem from="1611265125027" duration="3299000" />
       <workItem from="1611355443507" duration="7704000" />
       <workItem from="1611440463568" duration="10769000" />
-      <workItem from="1611504825915" duration="9643000" />
+      <workItem from="1611504825915" duration="9884000" />
+      <workItem from="1612199588719" duration="764000" />
     </task>
     <servers />
   </component>
@@ -160,14 +165,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="343" key="SettingsEditor/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611514629391" />
-    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1611504826919">
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1612199589471">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611504826919" />
+    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1612199589471" />
     <state x="943" y="370" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611269043375">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="943" y="370" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1611269043375" />
+    <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612204104917">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-2560.0.2048.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1612204104917" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1611514605005">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

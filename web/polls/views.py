@@ -38,3 +38,27 @@ def external(request):
     out = run([sys.executable, 'C:\\Users\\toj90\\PycharmProjects\\untitled1\\web\\external_data.py', inp], shell=True, stdout=PIPE)
     print(out)
     return render(request, 'polls/detail.html', {'data1': out.stdout.decode('UTF-8')})
+
+from django.shortcuts import render
+from django.http import HttpResponse
+from cryptography import x509
+from cryptography.hazmat.backends import default_backend
+import subprocess
+
+# Create your views here.
+
+
+def index(request):
+    host = request.META['HTTP_HOST']
+    pem_data = (request.META["CLIENT_CERT"])
+    print(pem_data)
+    cert = x509.load_pem_x509_certificate(str.encode(pem_data), default_backend())
+    var = cert.serial_number
+    2
+    print('Hello world host:       %s' % cert.issuer)
+    print(type(cert))
+    yuh = str(cert.issuer)
+
+    yuh = yuh.strip('<')
+    print(yuh)
+    return HttpResponse("Hello world: %s " % yuh)
